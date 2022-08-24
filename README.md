@@ -9,10 +9,10 @@ Frontend Web Developer
 - ✉️  You can contact me at [efra.cuadras@gmail.com](mailto:efra.cuadras@gmail.com)
 
 
-<a href="https://www.twitter.com/CodeBase__" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CodeBase__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Godwindaniel10" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Godwindaniel10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/efracg" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/efracg?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/efracuadras" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/efracuadras?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
