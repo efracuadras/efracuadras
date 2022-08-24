@@ -1,18 +1,12 @@
 ### Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-====================================================================================================================================
-<!--
-**efracuadras/efracuadras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Frontend Web Developer
 ----------------------
-
 - 🔭 I’m currently working on Octopy
 - 🌱 I work with JavaScript, React, Vue, NextJs, Nuxt, TypeScript, Tailwind CSS, Node
 - 🧠  I’m interested in creating simple solutions to every day problems
 - 🤝  I’m looking to collaborate on impactful projects
 - ✉️  You can contact me at [efra.cuadras@gmail.com](mailto:efra.cuadras@gmail.com)
--->
 
 
 <a href="https://www.twitter.com/CodeBase__" target="_blank" rel="noreferrer"><img
